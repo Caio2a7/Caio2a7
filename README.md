@@ -1,6 +1,6 @@
 # "Talk is easy, show me the code." 
 ### ~ Here it is ~✌️
-### ~Hi, i'm a Python Developer who likes Devops and Backend with C++
+### ~Hi, i'm a Python Developer who likes Devops and Backend
 
 # About Me 
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Kaka777/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-daniel-1b8951269/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio_kaka_/?next=%2F) [![DIO](https://img.shields.io/website?label=DIOCOURSES&style=for-the-badge&url=https://DIO/)](https://web.dio.me/users/caiodanielfonseca?tab=skills)
