@@ -8,8 +8,6 @@
 Gmail: caiodanielfonseca@gmail.com
 
 
-![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio2a7&show_icons=true&theme=dark&count_private=true)
-
 # My techs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact)](https://github.com/Caio2a7/github-readme-stats)
 
