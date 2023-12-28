@@ -11,6 +11,7 @@
 [![DIO](https://img.shields.io/website?label=DIOCOURSES&style=for-the-badge&url=https://DIO/)](https://web.dio.me/users/caiodanielfonseca?tab=skills)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-daniel-1b8951269/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio_kaka_/?next=%2F)
+
 !Email: caiodanielfonseca@gmail.com
 
 # My techs
