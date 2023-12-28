@@ -8,7 +8,7 @@
 
 # Coding Websites, Contact and Medias
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Kaka777/)
-[![DIO](https://img.shields.io/website?label=DIOCOURSES&style=social&url=https://DIO/)](https://web.dio.me/users/caiodanielfonseca?tab=skills)
+[![DIO](https://img.shields.io/website?label=DIOCOURSES&style=plastic&url=https://DIO/)](https://web.dio.me/users/caiodanielfonseca?tab=skills)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-daniel-1b8951269/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio_kaka_/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiodanielfonseca@gmail.com)
