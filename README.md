@@ -6,13 +6,12 @@
 - 💻My areas of interests are Fullstack development, Networks, Cybersecurity, Devops and BackEnd
 - 🔆My tastes range from Motorsport (King Ayrton Senna), Cars(Porsche fan btw), Games (Dark Souls...praise the sun), Animes and i like to read some classics of philosophy or literature
 
-# Contact and Medias
+# Coding Websites, Contact and Medias
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Kaka777/)
+[![DIO](https://img.shields.io/website?label=DIOCOURSES&style=for-the-badge&url=https://DIO/)](https://web.dio.me/users/caiodanielfonseca?tab=skills)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-daniel-1b8951269/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio_kaka_/?next=%2F)
-[![DIO](https://img.shields.io/website?label=DIOCOURSES&style=for-the-badge&url=https://DIO/)](https://web.dio.me/users/caiodanielfonseca?tab=skills)
-
-Gmail: caiodanielfonseca@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](caiodanielfonseca@gmail.com)
 
 # My techs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact)](https://github.com/Caio2a7/github-readme-stats)
