@@ -3,7 +3,7 @@
 # About Me 
 - 🏛️Majoring in Computer Science at [IMD](https://www.metropoledigital.ufrn.br/portal/) - [UFRN](https://www.ufrn.br)
 - ☕Currently working as a fellow at [PETCC](petcc.dimap.ufrn.br) and studying Vue.js, Next, Java, Spring 
-- 💻My areas of interests are Fullstack development, Networks and Cybersecurity, Devops and BackEnd
+- 💻My areas of interests are Fullstack development, Networks, Cybersecurity, Devops and BackEnd
 - 🔆My tastes range from Motorsport (King Ayrton Senna), Cars(Porsche fan btw), Games (Dark Souls...praise the sun), Animes and i like to read some classics of philosophy or literature
 
 # Contact and Medias
