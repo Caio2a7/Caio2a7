@@ -15,7 +15,7 @@
 **Email:** caiodanielfonseca@gmail.com
 
 # My techs
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact&theme=react">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&size_weight=0.3&count_weight=0.7">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact&theme=react&langs_count=8" alt="Caio Daniel Top Languages"/>
 </a>
 
