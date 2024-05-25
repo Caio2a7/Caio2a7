@@ -12,7 +12,57 @@
 
 **Email:** caiodanielfonseca@gmail.com
 
-# My techs
+# My Stacks
+<style>
+    .dropdown {
+        position: relative;
+        display: inline-block;
+        margin: 0 15px;
+    }
+    
+    .dropbtn {
+        background-color: #3498db;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+        border-radius: 4px;
+    }
+    
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 300px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+    
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+    
+    .tech-container {
+        padding: 12px 16px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .tech-row {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 8px 0;
+    }
+    
+    .tech-row img {
+        margin: 4px;
+    }
+</style>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact&theme=react&langs_count=8" alt="Caio Daniel Top Languages"/>
 </a>
