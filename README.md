@@ -16,7 +16,7 @@
 <div>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact&theme=react&langs_count=8" alt="Caio Daniel Top Languages"/></a>
-  <a href="https://github-readme-stats.vercel.app/api?username=joaoguilac&count_private=true&show_icons=true&theme=react">
+  <a href="https://github-readme-stats.vercel.app/api?username=Caio2a7&count_private=true&show_icons=true&theme=react">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio2a7&count_private=true&show_icons=true&theme=react" alt="Caio Daniel Github Stats"/>
       </a>
   </div><br>
