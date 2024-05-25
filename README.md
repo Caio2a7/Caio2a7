@@ -23,15 +23,15 @@
   <div style="display: inline_block">
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,flutter" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,figma,react,vue,nuxtjs,pinia" />
     </a>
     <h3>Back-end</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,mysql,firebase" />
+      <img src="https://skillicons.dev/icons?i=py,django,c,cpp,postgres,mysql" />
     </a>
     <h3>Operations</h3>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,bash,docker" />
+      <img src="https://skillicons.dev/icons?i=linux,debian,arch,bash,aws" />
     </a>
     <h3>Other languages</h3>
     <a href="https://skillicons.dev">
