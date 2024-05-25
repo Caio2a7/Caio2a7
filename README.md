@@ -13,8 +13,6 @@
 **Email:** caiodanielfonseca@gmail.com
 
 # My Stacks
-<details>
-  <summary>🛠️ Skills</summary>
   <div style="display: inline_block">
     <h3>Front-end</h3>
     <a href="https://skillicons.dev">
@@ -33,10 +31,6 @@
       <img src="https://skillicons.dev/icons?i=python,c,cpp" />
     </a>
   </div>
-</details>
-
-<details> 
-  <summary>📊 GitHub Stats</summary>
     <div><br>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact&theme=react&langs_count=8" alt="Caio Daniel Top Languages"/>
@@ -45,4 +39,3 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio2a7&count_private=true&show_icons=true&theme=react" alt="Caio Daniel Github Stats"/>
       </a>
     </div>
-</details>
