@@ -33,8 +33,4 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=linux,debian,arch,bash,aws" />
     </a>
-    <h3>Other languages</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-    </a>
   </div>
