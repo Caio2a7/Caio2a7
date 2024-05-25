@@ -17,7 +17,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&layout=compact&theme=react&langs_count=8" alt="Caio Daniel Top Languages"/>
 </a>
 
-<div style="display: flex; align-items: center; justify-content: center; margin: 10px 0;">
+<div style="display: flex, align-items: center, justify-content: center, margin: 10px 0;">
     <div class="dropdown" style="position: relative; display: inline-block; margin: 0 15px;">
         <button class="dropbtn" style="background-color: #3498db; color: white; padding: 16px; font-size: 16px; border: none; cursor: pointer; border-radius: 4px;">Frontend</button>
         <div class="dropdown-content" style="display: none; position: absolute; background-color: #f9f9f9; min-width: 300px; box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); z-index: 1; border-radius: 4px; overflow: hidden;">
