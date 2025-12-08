@@ -2,7 +2,6 @@
 - 🏛️Majoring in Computer Science at [IMD](https://www.metropoledigital.ufrn.br/portal/) - [UFRN](https://www.ufrn.br)
 - ☕Currently working as a fellow at [PETCC](petcc.dimap.ufrn.br) and studying Vue.js, Next, Java, Spring 
 - 💻My areas of interests are Fullstack development, Networks, Cybersecurity, Devops and BackEnd
-- 🔆My tastes range from Motorsport (King Ayrton Senna), Cars(Porsche fan btw), Games (Dark Souls...praise the sun), Animes and i like to read some classics of philosophy or literature
 
 # Coding Websites, Contact and Medias
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Kaka777/)
