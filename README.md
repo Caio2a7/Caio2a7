@@ -73,20 +73,19 @@
 
 
 ---
-
 <h2 align="left">
   <img src="https://api.iconify.design/fa6-solid:chart-bar.svg?color=%2300C878" width="22" height="22" />
   Stats
 </h2>
-
 <div align="center">
   <img
     height="180"
+    width="49%"
     src="https://ghstats.dev/api/langs?username=Caio2a7&theme=github_dark&hide_border=true&title_color=FFFFFF&text_color=B9C0CC&icon_color=00C878"
   />
-  &nbsp;
   <img
     height="180"
+    width="49%"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Caio2a7&theme=github-dark&hide_border=true&ring=00C878&fire=00C878&currStreakLabel=00C878&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
   />
 </div>
