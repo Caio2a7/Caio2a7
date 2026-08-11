@@ -80,6 +80,7 @@
 <div align="center">
   
   <img
+    id="github-stats"
     height="180"
     width="49%"
     src="https://ghstats.dev/api/langs?username=Caio2a7&theme=github_dark&hide_border=true&title_color=FFFFFF&text_color=B9C0CC&icon_color=00C878"
