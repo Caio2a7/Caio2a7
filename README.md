@@ -27,8 +27,10 @@
 
 - <img src="https://api.iconify.design/fa6-solid:graduation-cap.svg?color=%2300C878" width="16" height="16" /> &nbsp;B.S. in **Computer Science** at **[UFRN](https://www.metropoledigital.ufrn.br/)** — Natal, RN, Brazil
 - <img src="https://api.iconify.design/fa6-solid:briefcase.svg?color=%2300C878" width="16" height="16" /> &nbsp;**DevOps & Software Engineer** at [Metrópole Digital / UFRN](https://www.metropoledigital.ufrn.br/)
+<!--
 - <img src="https://api.iconify.design/fa6-solid:pen-to-square.svg?color=%2300C878" width="16" height="16" /> &nbsp;Learn more about my projects on my **blog**
 - <img src="https://api.iconify.design/fa6-solid:house.svg?color=%2300C878" width="16" height="16" /> &nbsp;I'm currently working on my **homelab**
+-->
 - <img src="https://api.iconify.design/fa6-brands:linkedin.svg?color=%2300C878" width="16" height="16" /> &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/caio-daniel)**
 - <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%2300C878" width="16" height="16" /> &nbsp;Reach me at **caiodanielfonseca@gmail.com**
 <br>
