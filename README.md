@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="left" id="caio-tech"><img src="https://api.iconify.design/fa6-solid:bolt.svg?color=%2300C878" width="22" height="22" /> Tech Stack</h2>
+<h2 align="left" id="caio-tech"><img src="https://api.iconify.design/fa6-solid:bolt.svg?color=%2300C878" width="22" height="22" />Current Working Tech Stack</h2>
 
 <table>
   <tr>
