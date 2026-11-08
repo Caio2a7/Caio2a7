@@ -13,62 +13,72 @@
   </a>
 </p>
 
-
-<a href="#caio-title">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=Caio2a7&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&title_color=4AFFA3&icon_color=4AFFA3"
-    align="right"
-    height="165"
-  />
-</a>
+<table width="100%">
+  <tr>
+    <td valign="middle" width="60%">
 
 - <img src="https://img.icons8.com/ios-filled/50/00C878/graduation-cap.png" width="16" height="16" /> &nbsp;B.S. in **Computer Science** at **[UFRN](https://www.metropoledigital.ufrn.br/)** — Natal, RN, Brazil
 - <img src="https://img.icons8.com/ios-filled/50/00C878/briefcase.png" width="16" height="16" /> &nbsp;**DevOps & Software Engineer** at [Metrópole Digital / UFRN](https://www.metropoledigital.ufrn.br/)
 - <img src="https://img.icons8.com/ios-filled/50/00C878/linkedin.png" width="16" height="16" /> &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/caio-daniel)**
 - <img src="https://img.icons8.com/ios-filled/50/00C878/email.png" width="16" height="16" /> &nbsp;Reach me at **caiodanielfonseca@gmail.com**
-<!--
-- <img src="https://img.icons8.com/ios-filled/50/00C878/edit.png" width="16" height="16" /> &nbsp;Learn more about my projects on my **blog**
-- <img src="https://img.icons8.com/ios-filled/50/00C878/home.png" width="16" height="16" /> &nbsp;I'm currently working on my **homelab**
--->
+
+</td>
+    <td valign="top" width="40%" align="center">
+      <a href="#caio-title">
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=Caio2a7&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&title_color=4AFFA3&icon_color=4AFFA3"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 ---
 
 <h2 align="left" id="caio-tech"><img src="https://img.icons8.com/ios-filled/50/00C878/lightning-bolt.png" width="22" height="22" />Current Working Tech Stack</h2>
 
+<!--
+  O GitHub aplica "width: max-content" em toda tabela e ignora width="100%".
+  A <img> invisivel (width=2000, height=0, align=right) dentro da celula "Dev"
+  faz a tabela crescer ate o limite do container. NAO REMOVER.
+-->
 <table width="100%">
   <tr>
-    <td colspan="12" align="left"><strong>Dev</strong></td>
+    <td colspan="5" align="left"><img src="https://github.com/Caio2a7.png" width="2000" height="0" align="right" alt=""><strong>Dev</strong></td>
   </tr>
   <tr>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36"/><br><sub>Spring</sub></td>
-   <td align="center" colspan="2" width="16.66%"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48"/><br><sub>Express</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" height="36"/><br><sub>NestJS</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36"/><br><sub>Next.js</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36"/><br><sub>Nuxt.js</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36"/><br><sub>TypeScript</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36"/><br><sub>Spring</sub></td>
+    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36"/><br><sub>Express</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" height="36"/><br><sub>NestJS</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36"/><br><sub>Next.js</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36"/><br><sub>Nuxt.js</sub></td>
   </tr>
   <tr>
-    <td align="center" colspan="4" width="33.33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36" height="36"/><br><sub>Go</sub></td>
-    <td align="center" colspan="4" width="33.33%"><img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="36" height="36"/><br><sub>Kafka</sub></td>
-    <td align="center" colspan="4" width="33.33%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36"/><br><sub>RabbitMQ</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36"/><br><sub>TypeScript</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36" height="36"/><br><sub>Go</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="36" height="36"/><br><sub>Kafka</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36"/><br><sub>RabbitMQ</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br><sub>PostgreSQL</sub></td>
   </tr>
   <tr>
-    <td colspan="12" align="left"><strong>Infra</strong></td>
+    <td colspan="5" align="left"><strong>Infra</strong></td>
   </tr>
   <tr>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="36" height="36"/><br><sub>K8s</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" width="36" height="36"/><br><sub>K3s</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="36" height="36"/><br><sub>Helm</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="36" height="36"/><br><sub>ArgoCD</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="36" height="36"/><br><sub>Terraform</sub></td>
-    <td align="center" colspan="2" width="16.66%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="36" height="36"/><br><sub>Ansible</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="36" height="36"/><br><sub>K8s</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" width="36" height="36"/><br><sub>K3s</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="36" height="36"/><br><sub>Helm</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="36" height="36"/><br><sub>ArgoCD</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="36" height="36"/><br><sub>Terraform</sub></td>
   </tr>
   <tr>
-    <td align="center" colspan="3" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="36" height="36"/><br><sub>Grafana</sub></td>
-    <td align="center" colspan="3" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="36" height="36"/><br><sub>Prometheus</sub></td>
-    <td align="center" colspan="3" width="25%"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="36" height="36"/><br><sub>Proxmox</sub></td>
-    <td align="center" colspan="3" width="25%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" width="36" height="36"/><br><sub>VMware</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="36" height="36"/><br><sub>Ansible</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="36" height="36"/><br><sub>Grafana</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="36" height="36"/><br><sub>Prometheus</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="36" height="36"/><br><sub>Proxmox</sub></td>
+    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" width="36" height="36"/><br><sub>VMware</sub></td>
   </tr>
 </table>
 
