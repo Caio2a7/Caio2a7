@@ -1,5 +1,5 @@
-<h1 align="left" id="caio-title"><img src="https://img.icons8.com/ios-filled/50/00C878/hand.png" width="28" height="28" /> Hi, I'm Caio</h1>
-<h3 align="left">Fullstack Developer · DevSecOps · Cloud Engineer</h3>
+<h1 align="left" id="caio-title">Hi, I'm Caio!</h1>
+<h3 align="left">Software Developer · DevOps </h3>
 
 <p align="left">
   <a href="https://github.com/Caio2a7">
@@ -35,7 +35,7 @@
 </table>
 
 
-<h2 align="left" id="caio-tech"><img src="https://img.icons8.com/ios-filled/50/00C878/lightning-bolt.png" width="22" height="22" />Current Working Tech Stack</h2>
+<h2 align="left" id="caio-tech">Current Working Tech Stack</h2>
 
 <!--
   O GitHub aplica "width: max-content" em toda tabela e ignora width="100%".
@@ -79,10 +79,7 @@
   </tr>
 </table>
 
-
----
 <h2 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/00C878/bar-chart.png" width="22" height="22" />
   Stats
 </h2>
 <div align="center">
