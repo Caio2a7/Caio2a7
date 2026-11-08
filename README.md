@@ -25,19 +25,19 @@
   />
 </a>
 
-- <img src="https://api.iconify.design/fa6-solid:graduation-cap.svg?color=%2300C878" width="16" height="16" /> &nbsp;B.S. in **Computer Science** at **[UFRN](https://www.metropoledigital.ufrn.br/)** — Natal, RN, Brazil
-- <img src="https://api.iconify.design/fa6-solid:briefcase.svg?color=%2300C878" width="16" height="16" /> &nbsp;**DevOps & Software Engineer** at [Metrópole Digital / UFRN](https://www.metropoledigital.ufrn.br/)
-- <img src="https://api.iconify.design/fa6-brands:linkedin.svg?color=%2300C878" width="16" height="16" /> &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/caio-daniel)**
-- <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%2300C878" width="16" height="16" /> &nbsp;Reach me at **caiodanielfonseca@gmail.com**
+- <img src="https://api.iconify.design/mdi:school.svg?color=%2300C878" width="16" height="16" /> &nbsp;B.S. in **Computer Science** at **[UFRN](https://www.metropoledigital.ufrn.br/)** — Natal, RN, Brazil
+- <img src="https://api.iconify.design/mdi:briefcase.svg?color=%2300C878" width="16" height="16" /> &nbsp;**DevOps & Software Engineer** at [Metrópole Digital / UFRN](https://www.metropoledigital.ufrn.br/)
+- <img src="https://api.iconify.design/mdi:linkedin.svg?color=%2300C878" width="16" height="16" /> &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/caio-daniel)**
+- <img src="https://api.iconify.design/mdi:email.svg?color=%2300C878" width="16" height="16" /> &nbsp;Reach me at **caiodanielfonseca@gmail.com**
 <!--
-- <img src="https://api.iconify.design/fa6-solid:pen-to-square.svg?color=%2300C878" width="16" height="16" /> &nbsp;Learn more about my projects on my **blog**
-- <img src="https://api.iconify.design/fa6-solid:house.svg?color=%2300C878" width="16" height="16" /> &nbsp;I'm currently working on my **homelab**
+- <img src="https://api.iconify.design/mdi:pencil.svg?color=%2300C878" width="16" height="16" /> &nbsp;Learn more about my projects on my **blog**
+- <img src="https://api.iconify.design/mdi:home.svg?color=%2300C878" width="16" height="16" /> &nbsp;I'm currently working on my **homelab**
 -->
 <br>
 
 ---
 
-<h2 align="left" id="caio-tech"><img src="https://api.iconify.design/fa6-solid:bolt.svg?color=%2300C878" width="22" height="22" />Current Working Tech Stack</h2>
+<h2 align="left" id="caio-tech"><img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2300C878" width="22" height="22" />Current Working Tech Stack</h2>
 
 <table>
   <tr>
@@ -76,7 +76,7 @@
 
 ---
 <h2 align="left">
-  <img src="https://api.iconify.design/fa6-solid:chart-bar.svg?color=%2300C878" width="22" height="22" />
+  <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%2300C878" width="22" height="22" />
   Stats
 </h2>
 <div align="center">
@@ -92,5 +92,3 @@
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Caio2a7&theme=github-dark&hide_border=true&ring=00C878&fire=00C878&currStreakLabel=00C878&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"
   />
 </div>
-
-
