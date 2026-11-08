@@ -34,9 +34,6 @@
   </tr>
 </table>
 
-<br>
-
----
 
 <h2 align="left" id="caio-tech"><img src="https://img.icons8.com/ios-filled/50/00C878/lightning-bolt.png" width="22" height="22" />Current Working Tech Stack</h2>
 
@@ -47,7 +44,7 @@
 -->
 <table width="100%">
   <tr>
-    <td colspan="5" align="left"><img src="https://github.com/Caio2a7.png" width="2000" height="0" align="right" alt=""><strong>Dev</strong></td>
+    <td colspan="5" align="center"><img src="https://github.com/Caio2a7.png" width="2000" height="0" align="right" alt=""><strong>Dev</strong></td>
   </tr>
   <tr>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36"/><br><sub>Spring</sub></td>
@@ -64,7 +61,7 @@
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br><sub>PostgreSQL</sub></td>
   </tr>
   <tr>
-    <td colspan="5" align="left"><strong>Infra</strong></td>
+    <td colspan="5" align="center"><strong>Infra</strong></td>
   </tr>
   <tr>
     <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="36" height="36"/><br><sub>K8s</sub></td>
