@@ -1,5 +1,5 @@
 <h1 align="left" id="caio-title">Hi, I'm Caio!</h1>
-<h3 align="left">Software Developer · DevOps </h3>
+<h3 align="left">Software Engineer · DevOps </h3>
 
 <p align="left">
   <a href="https://github.com/Caio2a7">
