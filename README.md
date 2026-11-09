@@ -3,7 +3,10 @@
 
 <p align="left">
   <a href="https://github.com/Caio2a7">
-    <img src="https://komarev.com/ghpvc/?username=Caio2a7&color=00C878&style=for-the-badge&label=VIEWS" alt="Profile views" />
+    <img src="https://hits.sh/github.com/Caio2a7.svg?label=VIEWS&color=181717&labelColor=181717&logo=github&style=for-the-badge&extraCount=256" alt="Profile views" />
+  </a>
+  <a href="https://www.npmjs.com/~caio2a7">
+    <img src="https://img.shields.io/badge/NPM%20DOWNLOADS%20198-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Total npm downloads" />
   </a>
   <a href="https://linkedin.com/in/caio-daniel">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
