@@ -38,7 +38,7 @@
 <h2 align="left" id="caio-tech">Current Working Tech Stack</h2>
 
 <p align="center">
-  <img src="assets/tech-stack.svg" width="100%" alt="Tech stack. Dev: Spring, Express, NestJS, Next.js, Nuxt.js, TypeScript, Go, Kafka, RabbitMQ, PostgreSQL. Infra: K8s, K3s, Helm, ArgoCD, Terraform, Ansible, Grafana, Prometheus, Proxmox, VMware." />
+  <img src="tech-stack.svg" width="100%" alt="..." />
 </p>
 
 <h2 align="left">
