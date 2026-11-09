@@ -37,47 +37,9 @@
 
 <h2 align="left" id="caio-tech">Current Working Tech Stack</h2>
 
-<!--
-  O GitHub aplica "width: max-content" em toda tabela e ignora width="100%".
-  A <img> invisivel (width=2000, height=0, align=right) dentro da celula "Dev"
-  faz a tabela crescer ate o limite do container. NAO REMOVER.
--->
-<table width="100%">
-  <tr>
-    <td colspan="5" align="center"><img src="https://github.com/Caio2a7.png" width="2000" height="0" align="right" alt=""><strong>Dev</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36"/><br><sub>Spring</sub></td>
-    <td align="center" width="20%"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36"/><br><sub>Express</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" height="36"/><br><sub>NestJS</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="36" height="36"/><br><sub>Next.js</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36"/><br><sub>Nuxt.js</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="36" height="36"/><br><sub>TypeScript</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="36" height="36"/><br><sub>Go</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" width="36" height="36"/><br><sub>Kafka</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36"/><br><sub>RabbitMQ</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" height="36"/><br><sub>PostgreSQL</sub></td>
-  </tr>
-  <tr>
-    <td colspan="5" align="center"><strong>Infra</strong></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="36" height="36"/><br><sub>K8s</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k3s/k3s-original.svg" width="36" height="36"/><br><sub>K3s</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="36" height="36"/><br><sub>Helm</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="36" height="36"/><br><sub>ArgoCD</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="36" height="36"/><br><sub>Terraform</sub></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="36" height="36"/><br><sub>Ansible</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="36" height="36"/><br><sub>Grafana</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="36" height="36"/><br><sub>Prometheus</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.simpleicons.org/proxmox/E57000" width="36" height="36"/><br><sub>Proxmox</sub></td>
-    <td align="center" width="20%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vsphere/vsphere-original.svg" width="36" height="36"/><br><sub>VMware</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Tech stack. Dev: Spring, Express, NestJS, Next.js, Nuxt.js, TypeScript, Go, Kafka, RabbitMQ, PostgreSQL. Infra: K8s, K3s, Helm, ArgoCD, Terraform, Ansible, Grafana, Prometheus, Proxmox, VMware." />
+</p>
 
 <h2 align="left">
   Stats
