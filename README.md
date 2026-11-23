@@ -43,11 +43,7 @@
 </h2>
 <div align="center">
   
-  <img
-    height="180"
-    width="49%"
-    src="https://ghstats.dev/api/langs?username=Caio2a7&theme=github_dark&hide_border=true&title_color=FFFFFF&text_color=B9C0CC&icon_color=F0C878"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2a7&card_width=400&layout=compact&bg_color=00000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Langs" />
   <img
     height="180"
     width="49%"
