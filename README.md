@@ -38,12 +38,6 @@
 </table>
 
 
-<h2 align="left" id="caio-tech">Current Working Tech Stack</h2>
-
-<p align="center">
-  <img src="tech-stack.svg" width="100%" alt="..." />
-</p>
-
 <h2 align="left">
   Stats
 </h2>
